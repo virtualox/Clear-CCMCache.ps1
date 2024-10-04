@@ -36,3 +36,7 @@ For example, to clean content older than 14 days, run the following command:
 ## Contributing
 
 If you find a bug or want to suggest an improvement, feel free to open an issue or submit a pull request on GitHub.
+
+##Acknowledgements
+
+Special thanks to [@theruck242](https://github.com/theruck242) for identifying a critical issue and providing a robust solution to enhance the script's safety and reliability.
